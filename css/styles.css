@@ -10986,7 +10986,9 @@ section.resume-section .resume-section-content {
 .large-container {
     padding: 100px;
     }
-
+.small-container {
+  padding: 60px;
+}
 
     .navbar-toggler[aria-expanded="false"] .navbar-toggler-icon {
         display: block;
