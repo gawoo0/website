@@ -10970,3 +10970,28 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+@font-face {
+    font-family: 'Dovemayo_gothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.1/Dovemayo_gothic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SBAggroB';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SBAggroB.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.large-container {
+    padding: 100px;
+    }
+
+
+    .navbar-toggler[aria-expanded="false"] .navbar-toggler-icon {
+        display: block;
+    }
+
+    .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
+        display: none;
+    }
